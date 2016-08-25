@@ -1,9 +1,7 @@
 
 $(function(){
 
-	var apiKey = '5416fef8ada2d0d6bef01f75135e956c';
-
-//    $("#btn").click(function(event){
+	var apiKey = 'ca370d51a054836007519a00ff4ce59e';
       	
         $.ajax({
         	
@@ -38,7 +36,6 @@ $(function(){
 				console.log(errorThrown);
           	}     
         });
-      //});
    });
 
  
