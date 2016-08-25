@@ -1,6 +1,6 @@
 
 $(function(){
-
+	// My API KEY = var apiKey = '5416fef8ada2d0d6bef01f75135e956c';
 	var apiKey = 'ca370d51a054836007519a00ff4ce59e';
       	
         $.ajax({
